@@ -1,4 +1,4 @@
-import sys,time,os,random
+import sys,time，os,random
 import urllib.request
 from tkinter import *
 import tkinter as tk
